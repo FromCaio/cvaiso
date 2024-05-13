@@ -4,9 +4,9 @@
 
 🚀 Passionate about collaborating on innovative projects, I bring a meticulous approach to development, emphasizing complexity analysis and drawing upon best practices from academic literature to craft solutions that are not only optimized but also enduring and easily maintainable. I excel in fine-tuning algorithms for maximum efficiency and implementing cutting-edge techniques that push the boundaries of what's possible in software engineering.
 
-🌐 Whether it's desktop applications or web development, I'm always eager to tackle new projects and solve complex problems. From optimizing online traffic to harnessing the power of data for actionable insights, I believe in leveraging technology to drive meaningful impact.
+🌐 Whether it's desktop applications or web development, I'm always eager to tackle new projects and solve complex problems. From optimizing solutions to harnessing the power of data for actionable insights, I believe in leveraging technology to drive meaningful impact. 
 
-📫 Let's connect! Feel free to reach out for collaborations using any of the following:
+📫 Feel free to explore my public repositories; I'm optimistic they'll provide valuable insights and inspiration for your own projects. Don't hesitate to reach out for potential collaborations through any of the following channels:
 
 <!--
 **cvaiso/cvaiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
