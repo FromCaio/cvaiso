@@ -9,7 +9,7 @@
 📫 Feel free to explore my public repositories; I'm optimistic they'll provide valuable insights and inspiration for your own projects. Don't hesitate to reach out for potential collaborations through any of the following channels:
 
 ![GitHub](https://img.shields.io/badge/cvaiso-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![linkedin](https://img.shields.io/badge/reis-caio-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![linkedin](https://img.shields.io/badge/reis\-caio-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 <!--
 **cvaiso/cvaiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
