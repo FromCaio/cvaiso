@@ -8,8 +8,8 @@
 
 📫 Feel free to explore my public repositories; I'm optimistic they'll provide valuable insights and inspiration for your own projects. Don't hesitate to reach out for potential collaborations through any of the following channels:
 
-![YouTube](https://img.shields.io/badge/FromCayo-BB0000?style=for-the-badge&logo=YouTube&logoColor=white)
-![Instagram](https://img.shields.io/badge/FromCayo-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=red)
+![YouTube](https://img.shields.io/badge/FromCayo-000000?style=for-the-badge&logo=YouTube&logoColor=red)
+![Instagram](https://img.shields.io/badge/FromCayo-000000?style=for-the-badge&logo=Instagram&logoColor=red)
 ![linkedin](https://img.shields.io/badge/reis--caio-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 <!--
 **cvaiso/cvaiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
