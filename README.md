@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/fromcayo-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![linkedin](https://img.shields.io/badge/reis--caio-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 ![YouTube](https://img.shields.io/badge/FromCayo-BB0000?style=for-the-badge&logo=YouTube&logoColor=white)
-![Instagram](https://img.shields.io/badge/FromCayo-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/FromCayo-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=red)
 <!--
 **cvaiso/cvaiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
