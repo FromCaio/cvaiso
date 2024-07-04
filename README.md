@@ -1,4 +1,4 @@
-👋 Hi there, I'm Caio Reis, a Computer Science student at Universidade Federal de São João Del Rei (UFSJ). Passionate about software development, data science, and exploring the intersection of technology, education, and digital marketing.
+👋 Hi there, I'm Caio Reis, a Computer Science student at Universidade Federal de São João Del Rei (UFSJ). Passionate about software development, data science, and exploring the intersection of technology and education.
 
 💻 My journey in programming has led me to work with many languages. Most extensively, I've crafted efficient algorithms in C, modified known algorithms to develop solutions with Python, and delved into JavaScript frameworks like React and Next.js to build dynamic and responsive web solutions.
 
@@ -10,6 +10,7 @@
 
 ![GitHub](https://img.shields.io/badge/cvaiso-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![linkedin](https://img.shields.io/badge/reis--caio-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![YouTube](https://img.shields.io/badge/FromCayo-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)
 <!--
 **cvaiso/cvaiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
